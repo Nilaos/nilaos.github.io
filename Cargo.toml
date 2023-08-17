@@ -1,0 +1,21 @@
+[package]
+name = "personal-blog"
+version = "0.1.0"
+edition = "2021"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+anyhow = "1.0.75"
+bounce = "0.8.0"
+gloo-worker = { version = "0.4.0", features = ["futures"] }
+js-sys = "0.3.64"
+log = "0.4.20"
+serde = { version = "1.0.183", features = ["derive"] }
+stylist = { version = "0.12.1", features = ["yew_integration"] }
+wasm-bindgen = "0.2.87"
+wasm-bindgen-futures = "0.4.37"
+wasm-bindgen-test = "0.3.37"
+wasm-logger = "0.2.0"
+web-sys = "0.3.64"
+yew = { version = "0.20.0", features = ["csr"] }
