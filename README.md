@@ -1,2 +1,3 @@
 # nilaos.github.io
-personal website
+
+Hello! You've found my personal website. It's a bit thin at the moment, but will be updated with more content soon.
