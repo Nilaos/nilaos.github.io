@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: default
 title:  "SMT: Or, Why is My Core Count Different?"
 date:   2023-09-09 23:23:03 +1000
 categories: jekyll update
