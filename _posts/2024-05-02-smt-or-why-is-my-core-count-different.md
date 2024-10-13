@@ -2,7 +2,7 @@
 layout: default
 title:  SMT, or Why is My Core Count Different?
 date:   2024-10-13 17:16:03 +1000
-categories: CPU computer-arch OS hardware
+categories: OS
 ---
 
 
