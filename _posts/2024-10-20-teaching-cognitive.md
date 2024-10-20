@@ -50,10 +50,12 @@ Intrinsic loads can be managed by planning not just to deliver the content, but 
 
 #### Sign-Posting
 
-A very basic method for managing cognitive loading is simple: avoid surprises, and tell students what you want them to learn.
+A very basic method for managing cognitive loading is simple: **avoid surprises**, and tell students **what** you want them to learn, and **why**.
 While this sounds immediately simple, it's a very powerful method because it prepares students to engage with the concept, and done well also tells them what you're looking for them to take away from the lesson.
 
-Ways to do this include spending a few minutes at the start of the lesson.
+Ways to do this include spending a few minutes at the start of the lesson discussing what you're planning on covering in the lesson, and how those link to course outcomes, syllabus points, or upcoming assessments. It sounds simple, and it is, so just take care to avoid extrinsic loads such as long, rambling explanations. Short and punchy introductions are the best!
+
+The trick to doing sign-posting effectively is to also link back to it throughout the lesson. As you move into new activities, spend thirty seconds explaining how the activity also links back to your stated learning aims for the lesson. While this has benefits for reducing intrinsic loading, it's also been shown to improve engagement - a win-win!
 
 #### Scaffolding
 
@@ -67,21 +69,24 @@ In more contextual scenarios, it's also possible to provide a scaffolding by rel
 
 A challenge with scaffolding is picking the pacing correctly. Too fast and you risk losing students attention as they become overwhelmed from a high *intrinsic* cognitive loading, or too slow and they disengage due to boredom. Judging student's comfort and engagement is a skill that takes time, practise and experience to develop.
 
-#### Narrative Based Teaching -- TODO: Make this it's own post?
+#### Content Pacing: Don't overload a single lesson
 
-Narrative based teaching is a powerful tool to manage intrinsic cognitive loads, because it appeals to a very basic form of human communication: Storytelling.
-Teaching with a narrative is not coming up with a grand fantasy adventure of how a knight used calculus to slay a dragon, however. It's just about using the *core structures* of narratives: the Introduction, a Complication, and Resolution.
-Or, in other words: What is being taught, why/how is it being taught, and finally how the new concept can help the students.
+A third valuable tool to manage intrinsic cognitive loads appears simple on the surface. Avoiding overloading students with content sounds obvious, because intuitively they need time to actually learn things (cue oft-receited adages of "can't build Rome in a day"). The key point here is that there is very solid evidence behind attention to the pacing of content being important.
 
+The key symptom of too-fast pacing is disengagement. This occurs as students' overloaded working memory struggles to keep up with the content, and eventually the student 'gives up' on trying to keep up with content. Preemptively, however, teachers can also judge the total content they plan to cover and discuss it with more experienced colleagues. There's also some tools which can be used in the classroom too though!
 
-#### Don't overload a single lesson
+One of the best ways to keep pacing appropriate for a class is to make the discourse two-way, by asking students questions and answering their questions. This provides a mechanism to find where you've gone too fast on some content, and the enforced pause of handling questions provides students with time to both bed-down concepts and to revise them before you move on to linking to the next topic.
 
-The last 
+There are also ramifications of going too slow in content. A poorly-recognised fact is that accelerated classes for 'gifted' students are simply another form of special-needs educational support, as boredom and disengagement will hurt the development of learners. At a smaller, more practical level, it is important to keep the broad class' pacing somewhere appropriate for the middle of the class. Students who are slightly behind can be then given more support when you have flexible time to do so, such as during exercises.
 
-
+A key aspect to remember is that the effective pacing will vary heavily with different classes, so it can be effective to have a 'priority list' of key content to help focus lesson planning. Managing pacing can be difficult, and most of the signs of too-fast pacing will eventually be learnt from experience.
 
 ## *Further Reading*
 
-Thanks for reading! Human psychology is a complex and nuanced field, so this post is unlikely to have done the field proper justice. I hope it is of use for It also falls well below the standards for a proper psychology paper, as it has a severe lacks of the proper references you should expect in a work on the subject. If you're interested in further reading, however, a short-list
+Thanks for reading! Human psychology is a complex and nuanced field, so this post is unlikely to have done the field proper justice. I hope it is of use for It also falls well below the standards for a proper psychology paper, as it has a severe lacks of the proper references you should expect in a work on the subject. If you're interested in further light reading however, here's a few I can recommend:
 
 ["What is designed-in scaffolding?" NSW Dept. of Education](https://education.nsw.gov.au/content/dam/main-education/teaching-and-learning/curriculum/multicultural-education/eald/urh/What_is_designed-in_scaffolding.pdf)
+
+["Teach in English? Tips on using signposts and stimulating interaction in class" Utrecht University](https://www.uu.nl/en/education/educational-development-training/knowledge-dossiers/knowledge-dossier-teaching-in-higher-education/teach-in-english-tips-on-using-signposts-and-stimulating-interaction-in-class)
+
+["Balancing and Pacing" Harvard Graduate School of Education](https://instructionalmoves.gse.harvard.edu/balancing-pacing) (related links are also quite good)
