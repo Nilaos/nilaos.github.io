@@ -2,7 +2,7 @@
 layout: default
 title:  What Is Cognitive Load Theory? (draft)
 date:   2024-10-20 13:00:00 +1100
-categories: teaching psychology
+categories: teaching
 ---
 
 University is bad at teaching staff to *teach* effectively, so I've decided to do a series of blog posts on my experiences! What worked, what didn't, and why certain things worked.
