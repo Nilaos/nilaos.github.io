@@ -1,7 +1,7 @@
 ---
 layout: default
-title:  Cognitive Load Theory (for Uni tutors)
-date:   2024-10-20 17:15:00 +1100
+title:  What Is Cognitive Load Theory? (draft)
+date:   2024-10-20 13:00:00 +1100
 categories: teaching psychology
 ---
 
