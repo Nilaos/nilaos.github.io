@@ -6,9 +6,11 @@ categories: teaching
 ---
 
 University is bad at teaching staff to *teach* effectively, so I've decided to do a series of blog posts on my experiences! What worked, what didn't, and why certain things worked.
-This post is the first in the series and covers **Cognitive Load Theory**. Find all the posts below:
+This post is the first in the series and covers **Cognitive Load Theory**, an empirical and highly relevant model from educational psychology.
+<!-- Find all the posts below: -->
 
 <!-- TODO: Link to all posts -->
+<!-- TODO: Add nice relevant images/graphics to all headers -->
 
 ## What is Cognitive Load Theory?
 
@@ -19,19 +21,17 @@ Cognitive Load Theory is an empirical theory which underpins, or at least relate
 
 ## What is Cognitive Load?
 
-Learning is a change in students' long-term memory. When teaching, we want to help students not just grasp new concepts briefly, in isolation, but bed them down as in long-term memory.
+Learning is a change in students' long-term memory. When teaching, we want to help students not just grasp new concepts briefly, in isolation, but bed them down as in long-term memory. This requires time thinking, understanding, and reinforcing the concepts taught.
 
-New ideas don't come free however. When learning a novel concept, working memory is consumed. This is known as *intrinsic cognitive load*, because the working memory is intrinsically or inherently needed to learn the new concept.
+New ideas don't come free however. When learning a novel concept, working memory is consumed. This is known as *intrinsic cognitive load*, because the working memory is intrinsically or inherently needed to learn the new concept. Most people have enough working memory for 7(±2) concepts, so the magic number is 5-9 concepts.
 
-Most people have enough working memory for 7(±2) concepts, so the magic number is 5-9 concepts. So, this means that you can introduce 5 concepts safely every lesson, right?
+So, this means that you can introduce 5 concepts safely every lesson, right? Not Quite.
 
 ![Image]({{ site.baseurl }}/assets/blog_images/arbiter-were-it-so-easy.gif)
 
-Not Quite.
-
 Not all concepts and ideas are created equally. When it comes to introducing new ideas, it's important to be gauging how much cognitive loading is required to both engage with and learn the new concepts. Harder concepts *will* have a higher cognitive load, as will more novel concepts.
 
-### But wait, you keep calling this *intrinsic*. We can make external cognitive loads?
+#### But wait, you keep calling this *intrinsic*. We can make external cognitive loads?
 
 Yep. Bad powerpoints are secretly notorious examples of this.
 
@@ -39,16 +39,16 @@ Where *intrinsic* loads come from the difficulty of the concepts, *extrinsic* co
 
 ## How can I use this?
 
-### Extrinsically?
+## Extrinsically?
 
 It's also important to note that all of these loadings, and how they
 
-### Intrinsically?
+## Intrinsically?
 
 While extrinsic loads seem most obvious, it's also important to be aware of managing intrinsic cognitive loads.
 Intrinsic loads can be managed by planning not just to deliver the content, but also planning *who* around the audience is. Teaching to a classroom of university students, for instance, will often be able to go at a faster pace than high school students. Some empirically supported teaching strategies also allow for proactive management of intrinsic cognitive loads at a more nuanced level.
 
-#### Sign-Posting
+### Sign-Posting
 
 A very basic method for managing cognitive loading is simple: **avoid surprises**, and tell students **what** you want them to learn, and **why**.
 While this sounds immediately simple, it's a very powerful method because it prepares students to engage with the concept, and done well also tells them what you're looking for them to take away from the lesson.
@@ -57,7 +57,7 @@ Ways to do this include spending a few minutes at the start of the lesson discus
 
 The trick to doing sign-posting effectively is to also link back to it throughout the lesson. As you move into new activities, spend thirty seconds explaining how the activity also links back to your stated learning aims for the lesson. While this has benefits for reducing intrinsic loading, it's also been shown to improve engagement - a win-win!
 
-#### Scaffolding
+### Scaffolding
 
 Scaffolding is a more planned method for managing cognitive loading, but one with very high effectiveness. It consists of breaking up a lesson into distinct parts or levels which build upon each other, gradually increasing in both the task difficulty and autonomy provided to students.
 
@@ -69,7 +69,7 @@ In more contextual scenarios, it's also possible to provide a scaffolding by rel
 
 A challenge with scaffolding is picking the pacing correctly. Too fast and you risk losing students attention as they become overwhelmed from a high *intrinsic* cognitive loading, or too slow and they disengage due to boredom. Judging student's comfort and engagement is a skill that takes time, practise and experience to develop.
 
-#### Content Pacing: Don't overload a single lesson
+### Content Pacing: Don't overload a single lesson
 
 A third valuable tool to manage intrinsic cognitive loads appears simple on the surface. Avoiding overloading students with content sounds obvious, because intuitively they need time to actually learn things (cue oft-receited adages of "can't build Rome in a day"). The key point here is that there is very solid evidence behind attention to the pacing of content being important.
 
@@ -89,4 +89,4 @@ Thanks for reading! Human psychology is a complex and nuanced field, so this pos
 
 ["Teach in English? Tips on using signposts and stimulating interaction in class" Utrecht University](https://www.uu.nl/en/education/educational-development-training/knowledge-dossiers/knowledge-dossier-teaching-in-higher-education/teach-in-english-tips-on-using-signposts-and-stimulating-interaction-in-class)
 
-["Balancing and Pacing" Harvard Graduate School of Education](https://instructionalmoves.gse.harvard.edu/balancing-pacing) (related links are also quite good)
+["Balancing and Pacing" Harvard Graduate School of Education](https://instructionalmoves.gse.harvard.edu/balancing-pacing) (The related links here are also quite good)
